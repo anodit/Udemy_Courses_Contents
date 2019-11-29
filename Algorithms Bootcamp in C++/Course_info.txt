@@ -1,0 +1,3 @@
+# Course Name :-> Algorithms Bootcamp in C++
+# Instructor :-> Holczer Balazs
+# Link to this course :-> https://www.udemy.com/course/algorithms-bootcamp-in-c/
